@@ -15,7 +15,6 @@ public class Binary {
     public static void main(String[] args) {
     
     	LinkedList<Integer> binValues = new LinkedList<Integer>();
-    	LinkedList<Integer> ones = new LinkedList<Integer>();
     	int counter = 0, count = 0;
     	
         int n = scanner.nextInt();
