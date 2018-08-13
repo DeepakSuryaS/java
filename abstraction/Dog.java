@@ -20,7 +20,7 @@ public class Dog extends Animal {
 	}
 	
 	
-	//for methods that override the original method the scope, the return type and the name of the method (all these make up the signature of the method) should be similar
+	//for methods that override the original method the access modifier, the return type and the name of the method (all these make up the signature of the method) should be similar
 	public void sleep() { //this method overrides the sleep method in the animal class
 		System.out.println("A dog is sleeping.");
 	}
