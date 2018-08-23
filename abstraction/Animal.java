@@ -9,7 +9,7 @@ public abstract class Animal {
 		this means that a private variable can be accessed by other classes via a public method
 	*/
 	
-	public Animal(int age) {
+	public Animal(int age) { 
 		this.age = age;
 		System.out.println("An animal has been created.");
 	}
