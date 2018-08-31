@@ -1,0 +1,12 @@
+above
+below
+under
+beside
+over
+hello
+rolling
+hacker
+battery
+stupid
+idiot
+notebook
